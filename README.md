@@ -6,7 +6,7 @@ A modern, secure password manager built with React, TypeScript, and Supabase. St
 
 ## 🚀 Live Website
 
-Visit the live application at: [SecureVault](https://SecureVault.vercel.app)
+Visit the live application at: [SecureVault](https://SecureVaultt.vercel.app)
 
 ## ✨ Features
 
